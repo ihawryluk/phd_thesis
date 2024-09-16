@@ -13,3 +13,6 @@ Imperial College London, Faculty of Medicine, School of Public Health, Departmen
 keywords: Bayesian statistics, Machine Learning, Infectious Disease Epidemiology, Epidemic modelling, statistical modelling, Probabilistic Programming
 
 [Read the thesis here](https://github.com/ihawryluk/phd_thesis/blob/main/hawryluk_phd_thesis.pdf)
+
+Cite:
+Hawryluk, I. (2024). Statistical methods for characterising the severity of an emerging pathogen: Case studies of the COVID-19 pandemic (Doctoral dissertation, Imperial College London). Imperial College London Repository. https://doi.org/10.25560/114476
